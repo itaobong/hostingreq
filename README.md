@@ -70,7 +70,6 @@ B --> C[High Case: $17,775/mo]
 | **Background Processing**   | Azure Functions costs scale with transaction volume and execution time.                |
 | **Security & Monitoring**   | Enhanced logging and advanced monitoring add overhead, especially at scale.            |
 
----
 
 ## 7. Scenario Insights
 
