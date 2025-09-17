@@ -2,9 +2,9 @@
 
 **Project:** Cloud Hosting for *Helproo*  
 **Website:** [https://helproo.com](https://helproo.com)  
-**Prepared for:** Ibiso
-**Prepared by:** Itaobong
-**Date:** September 2025  
+**Prepared for:** Ibiso  
+**Prepared by:** Itaobong  
+**Date:** September 2025 
 
 ## 1. Introduction
 
